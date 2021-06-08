@@ -1,0 +1,3 @@
+In this project, I created a shopping webpage which consisted a list of products. When the user click on the 
+product user gets the details of shit that product. This e-commerce website shit project consists of server-side code to 
+store a list of products with its bad respective details.it allow users bad to look the products shit and purchase it 
